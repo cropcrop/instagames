@@ -1,0 +1,16 @@
+.cell {
+    display: inline-block;
+    position: relative;
+    width: 12.5%;
+}
+.cell .align {
+    margin-top: 100%; /* 4:3 aspect ratio */
+}
+.cell .box {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: silver /* show me! */
+}
