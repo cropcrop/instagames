@@ -12,6 +12,7 @@
     "tests"
   ],
   "dependencies": {
-    "chessboardjs-0.3.0": "http://chessboardjs.com/releases/0.3.0/chessboardjs-0.3.0.zip"
+    "chessboardjs-0.3.0": "http://chessboardjs.com/releases/0.3.0/chessboardjs-0.3.0.zip",
+    "jquery": "~2.1.0"
   }
 }
