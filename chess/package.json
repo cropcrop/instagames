@@ -1,0 +1,9 @@
+{
+  "name": "instachess",
+  "description": "chess. now.",
+  "dependencies": {
+    "browserify": "~3.30.0",
+    "debowerify": "~0.5.2",
+    "chess.js": "~0.1.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "chess",
+  "version": "0.0.0",
+  "homepage": "https://github.com/onehone/instagames",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chessboardjs-0.3.0": "http://chessboardjs.com/releases/0.3.0/chessboardjs-0.3.0.zip"
+  }
+}
